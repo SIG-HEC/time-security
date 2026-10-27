@@ -1,0 +1,15 @@
+{
+  "name": "com.labxr.timesecurity",
+  "version": "1.0.0",
+  "displayName": "Time Security",
+  "description": "Time Security, allowing you to check if the game is running after a certain date",
+  "unity": "6000.2",
+  "author": { "name": "LabXR" },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "A simple Demo Scene",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
